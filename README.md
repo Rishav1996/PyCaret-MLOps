@@ -14,7 +14,7 @@ HUGGING_FACE_URL = https://{username}-{reponame}.hf.space/{route}
 ~~~  
 - Trigger the notebooks in an order as mentioned below
 ~~~
-Data Splitting Module -> Training & Deployment Module.ipynb
+Data Splitting Module -> Training & Deployment Module
 ~~~
 - Upload the deploy module on the Hugging Face Space using Docker keep the repository public
 - After the deploy module is running and up on the Hugging Face server continue with the final Notebook (Prediction Module.ipynb)
