@@ -1,0 +1,5 @@
+.env
+lambda_layer
+.conda
+.ipynb_checkpoints
+logs.log

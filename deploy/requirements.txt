@@ -1,0 +1,6 @@
+
+pycaret
+fastapi
+uvicorn
+boto3
+load-dotenv

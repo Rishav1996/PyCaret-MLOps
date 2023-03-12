@@ -1,0 +1,2 @@
+https://rishavsaigal-model-rest-api.hf.space/docs
+https://{name}-{reponame}.hf.space/{route}
